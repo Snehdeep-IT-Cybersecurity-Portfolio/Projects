@@ -49,3 +49,24 @@ This repository highlights the technical tasks, challenges, and projects I've co
 - Collaborate with others and learn continuously  
 
 ---
+
+## 🏁 How to Use This Portfolio
+
+- Browse the folders for individual projects  
+- Each project includes a `README.md` with:
+  - Overview of the task
+  - Tools used
+  - Steps performed
+  - Screenshots, evidence, or reports
+
+---
+
+## 📬 Contact
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 Email: your.email@example.com  
+
+---
+
+💡 *This portfolio is a work in progress and will be updated regularly as I complete new simulations, tasks, and certifications.*
+
