@@ -63,8 +63,8 @@ This repository highlights the technical tasks, challenges, and projects I've co
 
 ## 📬 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/snehk9187)  
+- 📧 Email: snehdeepk0406@gmail.com  
 
 ---
 
