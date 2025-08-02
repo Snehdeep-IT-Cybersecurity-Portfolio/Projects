@@ -1,6 +1,6 @@
 # 🔐 ANZ Cybersecurity Management Simulation – Forage
 
-![Forage](https://assets.theforage.com/logo-dark.png)
+
 
 ## 📌 Overview
 
