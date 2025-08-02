@@ -33,7 +33,7 @@ This repository highlights the technical tasks, challenges, and projects I've co
 
 | Project/Task                            | Description                                                      | Link |
 |----------------------------------------|------------------------------------------------------------------|------|
-| **ANZ Cybersecurity Simulation**        | Investigated phishing emails and analyzed PCAP traffic           | https://www.theforage.com/simulations/anz/cybersecurity-management-szf9 |
+| **ANZ Cybersecurity Simulation**        | Investigated phishing emails and analyzed PCAP traffic           | Coming soon |
 | **Windows Troubleshooting Scripts**     | PowerShell tools to automate common support fixes                | Coming soon |
 | **Wireshark Network Threat Detection**  | Deep dive into packet capture to spot malicious activity         | Coming soon |
 | **Firewall Rules – Cisco Packet Tracer**| Configured ACLs and security zones using Cisco CLI               | Coming soon |
