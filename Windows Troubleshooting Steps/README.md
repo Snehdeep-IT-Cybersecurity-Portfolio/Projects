@@ -30,11 +30,11 @@ This structured approach shows how I can work through problems in a professional
 
 ## 📂 Troubleshooting Scenarios
 
-- [Wi-Fi Connectivity Issues](WiFi_Troubleshooting.md)  
-- [Slow Computer Performance](Slow_Performance.md)  
-- [Blue Screen of Death (BSOD)](BSOD_Troubleshooting.md)  
-- [Printer Not Printing](Printer_Issue.md)  
-- [User Account Locked (Active Directory)](Account_Lockout.md)  
+- [Wi-Fi Connectivity Issues](/WiFi_Troubleshooting.md)  
+- [Slow Computer Performance](/Slow_Performance.md)  
+- [Blue Screen of Death (BSOD)](/BSOD_Troubleshooting.md)  
+- [Printer Not Printing](/Printer_Issue.md)  
+- [User Account Locked (Active Directory)](/Account_Lockout.md)  
 
 ---
 
