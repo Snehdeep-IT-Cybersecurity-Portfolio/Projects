@@ -20,19 +20,19 @@ Each troubleshooting guide includes:
 
 ## 📚 Troubleshooting Guides  
 
-1. 📶 [**Wi-Fi Connectivity**](WiFi_Troubleshooting.md)  
+1. 📶 [**Wi-Fi Connectivity**](WiFi-Troubleshooting.md)  
    - Fix network issues using commands like `ipconfig /release`, `ipconfig /renew`, `ipconfig /flushdns`, and `netsh int ip reset`.  
 
-2. 🐢 [**Slow Computer Performance**](Slow_Performance.md)  
+2. 🐢 [**Slow Computer Performance**](Slow-Performance.md)  
    - Improve system speed by disabling startup programs, clearing temporary files, and applying updates.  
 
-3. 💻💥 [**Blue Screen of Death (BSOD)**](BSOD_Troubleshooting.md)  
+3. 💻💥 [**Blue Screen of Death (BSOD)**](BSOD-Troubleshooting.md)  
    - Diagnose system crashes with `sfc /scannow`, `chkdsk /f`, and driver updates.  
 
-4. 🖨️ [**Printer Issues**](Printer_Issue.md)  
+4. 🖨️ [**Printer Issues**](Printer-Issue.md)  
    - Resolve printer problems by restarting the Print Spooler, reinstalling drivers, and checking port configs.  
 
-5. 🔒 [**Account Lockout**](Account_Lockout.md)  
+5. 🔒 [**Account Lockout**](Account-Lockout.md)  
    - Unlock accounts in Active Directory, reset passwords, and verify user access.  
 
 ---
