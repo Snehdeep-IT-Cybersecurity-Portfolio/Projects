@@ -13,7 +13,7 @@ It covers:
 
 ## Skills Demonstrated 🎯
 - 🖧 VLAN segmentation for Sales, IT, and Server departments  
-- ⚙️ Configuring DHCP scopes and DNS entries on PCs 
+- ⚙️ Configuring DHCP and DNS on PCs 
 - 🧰 Using network troubleshooting tools (`ping`)  
 - 🔍 Verifying connectivity within VLANs and between VLANs  
 - 🌐 Visualizing network topology in Cisco Packet Tracer
