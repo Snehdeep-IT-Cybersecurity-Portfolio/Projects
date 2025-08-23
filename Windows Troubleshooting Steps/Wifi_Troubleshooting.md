@@ -68,5 +68,5 @@ Restart the computer to complete this action.
 - Resolution Time: ~10 minutes  
 - Action Taken: Reset TCP/IP stack, verified DHCP lease, tested connectivity  
 - Outcome: User confirmed issue resolved
-```
+
 
