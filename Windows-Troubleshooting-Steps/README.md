@@ -20,7 +20,7 @@ Each troubleshooting guide includes:
 
 ## 📚 Troubleshooting Guides  
 
-1. 📶 [**Wi-Fi Connectivity**](WiFi-Troubleshooting.md)  
+1. 📶 [**Wi-Fi Connectivity**](Wifi-Troubleshooting.md)  
    - Fix network issues using commands like `ipconfig /release`, `ipconfig /renew`, `ipconfig /flushdns`, and `netsh int ip reset`.  
 
 2. 🐢 [**Slow Computer Performance**](Slow-Performance.md)  
