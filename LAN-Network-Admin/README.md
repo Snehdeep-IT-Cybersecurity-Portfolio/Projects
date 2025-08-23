@@ -1,22 +1,30 @@
 # LAN & Network Administration 🌐💻
 
 ## Overview 📝
-This project demonstrates practical knowledge of designing, configuring, and troubleshooting Local Area Networks (LANs) in a corporate environment.
+This project demonstrates hands-on experience designing and implementing a corporate LAN using Cisco Packet Tracer and configuring IP addresses in Windows PCs. I created VLANs for different departments, set up DHCP and DNS services, and tested connectivity across devices.
 
 It covers:
-- 🏗️ LAN setup and VLAN configuration  
+- 🏗️ VLAN design and configuration in Cisco Packet Tracer  
+- 💻 Assigning static and DHCP IP addresses in Windows  
 - 📡 DHCP and DNS server configuration  
-- 🛠️ Network troubleshooting and common issues
+- 🛠️ Network testing and troubleshooting
+
+---
 
 ## Skills Demonstrated 🎯
-- 🖧 Designing and segmenting LANs using VLANs  
-- ⚙️ Configuring DHCP scopes and DNS resolution  
-- 🧰 Using network troubleshooting tools (`ping`, `tracert`, `nslookup`, `ipconfig`)  
-- 🔍 Diagnosing connectivity and server access issues
+- 🖧 VLAN segmentation for Sales, IT, and Server departments  
+- ⚙️ Configuring DHCP scopes and DNS entries on Windows Server  
+- 🧰 Using network troubleshooting tools (`ping`, `tracert`, `ipconfig`)  
+- 🔍 Verifying connectivity within VLANs and between VLANs  
+- 🌐 Visualizing network topology in Cisco Packet Tracer
 
-## Usage 🚀
-- Read through `LAN_Setup.md` for network design and configuration best practices.  
-- Use `Network_Troubleshooting.md` as a reference for solving common network problems.  
-- This project is designed to demonstrate practical IT Help Desk and network administration skills.
+---
+
+## What I Did 🚀
+1. Designed VLANs in Cisco Packet Tracer and assigned switch ports to each VLAN.  
+2. Assigned static IPs to servers and configured DHCP for client PCs in Windows.  
+3. Configured DHCP scopes and DNS entries on a Windows Server.  
+4. Tested connectivity within VLANs, between VLANs, and to simulated Internet.  
+5. Created a VLAN diagram with labeled IP addresses and device roles.  
 
 ---
