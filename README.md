@@ -31,13 +31,13 @@ This repository highlights the technical tasks, challenges, and projects I've co
 
 ## 📂 Projects & Tasks
 
-| Project/Task                            | Description                                                      | Link |
-|----------------------------------------|------------------------------------------------------------------|------|
-| **ANZ Cybersecurity Simulation**        | Investigated phishing emails and analyzed PCAP traffic           | https://github.com/Snehdeep-IT-Cybersecurity-Portfolio/Projects/tree/b1254b5fb3737ed44403ea8f167b55253ddfa869/ANZ-Cybersecurity-Simulation |
-| **Windows Troubleshooting Scripts**     | PowerShell tools to fix common issues                | Coming soon |
-| **Wireshark Network Threat Detection**  | Deep dive into packet capture to spot malicious activity         | Coming soon |
-| **Firewall Rules – Cisco Packet Tracer**| Configured ACLs and security zones using Cisco CLI               | Coming soon |
-| **Help Desk Ticketing System**          | Simulated IT support workflow with ticket creation & resolution  | Coming soon |
+| Project/Task                            | Description                                                      |
+|----------------------------------------|------------------------------------------------------------------|
+| [**ANZ Cybersecurity Simulation**](https://github.com/Snehdeep-IT-Cybersecurity-Portfolio/Projects/tree/b1254b5fb3737ed44403ea8f167b55253ddfa869/ANZ-Cybersecurity-Simulation#readme)        | Investigated phishing emails and analyzed PCAP traffic           |
+| [**Windows Troubleshooting Scripts**](https://github.com/Snehdeep-IT-Cybersecurity-Portfolio/Projects/tree/main/Windows-Troubleshooting-Steps#readme)     | PowerShell tools to fix common issues                |
+| **Wireshark Network Threat Detection**  | Deep dive into packet capture to spot malicious activity         |
+| **Firewall Rules – Cisco Packet Tracer**| Configured ACLs and security zones using Cisco CLI               |
+| **Help Desk Ticketing System**          | Simulated IT support workflow with ticket creation & resolution  |
 
 ---
 
