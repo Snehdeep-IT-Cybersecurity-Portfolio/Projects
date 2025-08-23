@@ -34,7 +34,7 @@ This repository highlights the technical tasks, challenges, and projects I've co
 | Project/Task                            | Description                                                      | Link |
 |----------------------------------------|------------------------------------------------------------------|------|
 | **ANZ Cybersecurity Simulation**        | Investigated phishing emails and analyzed PCAP traffic           | https://github.com/Snehdeep-IT-Cybersecurity-Portfolio/Projects/tree/b1254b5fb3737ed44403ea8f167b55253ddfa869/ANZ-Cybersecurity-Simulation |
-| **Windows Troubleshooting Scripts**     | PowerShell tools to automate common support fixes                | Coming soon |
+| **Windows Troubleshooting Scripts**     | PowerShell tools to fix common issues                | Coming soon |
 | **Wireshark Network Threat Detection**  | Deep dive into packet capture to spot malicious activity         | Coming soon |
 | **Firewall Rules – Cisco Packet Tracer**| Configured ACLs and security zones using Cisco CLI               | Coming soon |
 | **Help Desk Ticketing System**          | Simulated IT support workflow with ticket creation & resolution  | Coming soon |
