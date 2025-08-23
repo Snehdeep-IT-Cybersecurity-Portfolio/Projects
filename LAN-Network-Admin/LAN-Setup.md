@@ -102,8 +102,12 @@ Switch(config)# write
 - **Inter-VLAN ping:** PCs can ping devices in the other VLAN via Router-on-a-Stick.  
 - **Server ping:** Both IT and Sales servers are reachable from all PCs.  
 
-Screenshot: ![Ping Results](ping_results.png)
-
+Screenshots: ![Ping Results for Sales-PC1](Sales-PC1.png)
+             ![Ping Results for Sales-PC2](Sales-PC2.png)
+             ![Ping Results for Sales-PC3](Sales-PC3.png)
+             ![Ping Results for IT-PC1](IT-PC1.png)
+             ![Ping Results for IT-PC2](IT-PC2.png)
+             ![Ping Results for IT-PC3](IT-PC3.png)
 
 ---
 
@@ -115,7 +119,7 @@ Screenshot: ![Ping Results](ping_results.png)
   - VLAN 20 (IT PCs)   
   - VLAN 30 (Servers)
 
-Screenshot: ![Ping Results](ping_results.png)
+Screenshot: ![Network Diagram](Network-Diagram.png)
 
 ---
 
