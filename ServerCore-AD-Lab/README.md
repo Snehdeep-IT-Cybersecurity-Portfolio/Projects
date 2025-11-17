@@ -46,4 +46,4 @@ ServerCore-AD-Lab/
 - The lab demonstrates practical **AD management** on Server Core.  
 - Screenshots and detailed commands are organized in the `steps/` folder.  
 - Focus is on **PowerShell-driven administration**, suitable for labs, learning, or portfolio showcase.
-```
+
