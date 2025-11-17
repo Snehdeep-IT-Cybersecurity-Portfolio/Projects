@@ -64,7 +64,7 @@ Get-ADComputer -Identity "CLIENTPC"
 Ensure it appears under the correct OU (default is Computers).
 
 ![IP](.../screenshots/ip.jpeg)
-![IP](.../screenshots/ip.jpeg)
-![IP](.../screenshots/ip.jpeg)
-![IP](.../screenshots/ip.jpeg)
-![IP](.../screenshots/ip.jpeg)
+![Ping](.../screenshots/ping.jpeg)
+![Other](.../screenshots/other.jpeg)
+![Whoami](.../screenshots/whoami.jpeg)
+![Gpresult](.../screenshots/gpresult.jpeg)
