@@ -12,12 +12,14 @@ To practice and demonstrate core Active Directory administration skills in a Ser
 
 **Key Features Implemented:**
 
-- 🖥️ Configured **Server Core as a Domain Controller**  
+**Key Features Implemented:**
+
+- 🖥️ Configured **Windows Server 2022 Core** as a Domain Controller  
+- 💻 Used **Windows 10 client** joined to the domain  
 - 🌐 Created domain: `MyDomain.local`  
 - 🏢 Created **Organizational Units (OUs)**: IT, HR, Sales  
 - 👤 Created **users** and assigned them to **groups**  
 - 🔒 Linked **GPOs** to OUs to enforce department policies  
-- 💻 Joined a **client VM** to the domain and verified logins  
 
 All steps were performed using **PowerShell commands** without GUI.
 
