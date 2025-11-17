@@ -12,6 +12,7 @@ Install-WindowsFeature AD-Domain-Services
 
 # Promote Server Core to Domain Controller and create domain
 Install-ADDSForest -DomainName "mydomain.local"
+```
 Notes:
 The server is now configured as the primary domain controller.
 
@@ -19,5 +20,6 @@ Ready for creating OUs, users, and groups.
 
 All configuration is done via PowerShell, no GUI required.
 
-```
-![Domain Setup](screenshots/domain_setup.png)
+
+![Domain Setup](../domain_setup.jpeg)
+![Domain Setup](../domain_setup2.jpeg)
