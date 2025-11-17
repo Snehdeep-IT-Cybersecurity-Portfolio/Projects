@@ -67,4 +67,3 @@ Ensure it appears under the correct OU (default is Computers).
 ![Ping](.../screenshots/ping.jpeg)
 ![Other](.../screenshots/other.jpeg)
 ![Whoami](.../screenshots/whoami.jpeg)
-![Gpresult](.../screenshots/gpresult.jpeg)
