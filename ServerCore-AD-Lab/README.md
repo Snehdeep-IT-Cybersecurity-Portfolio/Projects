@@ -1,49 +1,107 @@
-# 🖥️ Server Core Active Directory Lab
+# 🖥️ Active Directory Project – Windows Server 2022 (Server Core)
 
-This project demonstrates an **Active Directory lab setup** using **Windows Server Core** and **PowerShell**.  
-It showcases how to simulate a corporate environment with domain controllers, organizational units, users, groups, and GPOs.
+### **Complete Domain Setup • OUs • Users • Groups • GPOs • Client Join**
+
+This project demonstrates a **full corporate-style Active Directory deployment** using:
+
+* **Windows Server 2022 Core (no GUI)**
+* **Windows 10 Client**
+* **VirtualBox Host-Only Network**
+* 100% **PowerShell-based administration**
 
 ---
 
-## 📋 Project Overview
+## 🚀 Project Overview
 
-**Objective:**  
-To practice and demonstrate core Active Directory administration skills in a Server Core environment.
+I built a complete **Active Directory environment** from scratch, simulating a real corporate network.
+Everything was configured using **PowerShell only**.
 
-**Key Features Implemented:**
+### ✔️ Key Achievements
 
-**Key Features Implemented:**
+* Created the domain **`mydomain.local`**
+* Configured static IP + DNS for the Domain Controller
+* Created Organizational Units (IT, HR, Sales)
+* Added Users and Security Groups
+* Assigned members to groups
+* Created and linked Group Policies (GPOs)
+* Joined a Windows 10 client to the domain
 
-- 🖥️ Configured **Windows Server 2022 Core** as a Domain Controller  
-- 💻 Used **Windows 10 client** joined to the domain  
-- 🌐 Created domain: `mydomain.local`  
-- 🏢 Created **Organizational Units (OUs)**: IT, HR, Sales  
-- 👤 Created **users** and assigned them to **groups**  
-- 🔒 Linked **GPOs** to OUs to enforce department policies  
+---
 
-All steps were performed using **PowerShell commands** without GUI.
+## 🛠️ Technologies Used
+
+* **Windows Server 2022 Core**
+* **Windows 10**
+* **Active Directory Domain Services (ADDS)**
+* **Group Policy Management**
+* **PowerShell**
+* **VirtualBox Networking**
 
 ---
 
 ## 📁 Project Structure
 
 ```
-
-ServerCore-AD-Lab/
-├── steps/      # Step-by-step commands and screenshots
-├── scripts/    # Optional: PowerShell scripts used
-└── README.md   # Project overview
-
+📦 Active-Directory-Project
+ ┣ 📁 steps
+ ┃ ┣ 1_domain_setup.md
+ ┃ ┣ 2_network_config.md
+ ┃ ┣ 3_ou_users_creation.md
+ ┃ ┣ 4_groups_and_members.md
+ ┃ ┣ 5_gpo_setup.md
+ ┃ ┗ 6_client_join_domain.md
+ ┣ 📁 screenshots
+ ┗ README.md  ← (You are here)
 ```
-
-- `steps/` contains all commands, outputs, and screenshots demonstrating the implementation.  
-- `scripts/` (optional) can store reusable PowerShell scripts for setting up the lab.
 
 ---
 
-## 💡 Notes
+## 📸 Screenshots
 
-- The lab demonstrates practical **AD management** on Server Core.  
-- Screenshots and detailed commands are organized in the `steps/` folder.  
-- Focus is on **PowerShell-driven administration**, suitable for labs, learning, or portfolio showcase.
+All screenshots are stored in the **`/screenshots`** folder in these categories:
 
+* **Domain Setup**
+* **OU & User Creation**
+* **Groups & Memberships**
+* **GPO Setup & Application**
+* **Client Domain Join Verification**
+
+Each step folder contains the related screenshot evidence.
+
+---
+
+## 📚 Detailed Steps
+
+All steps are documented with explanations + commands:
+
+👉 **[Step 1 – Domain Setup](steps/1_domain_setup.md)**
+👉 **[Step 2 – OUs + Users](steps/2_ou_and_users.md)**
+👉 **[Step 3 – Groups + Members](steps/3_groups_and_members.md)**
+👉 **[Step 4 – GPO Setup](steps/4_gpo_setup.md)**
+👉 **[Step 5 – Client Domain Join](steps/5_client_join_domain.md)**
+
+---
+
+## 🎯 Outcome
+
+This project demonstrates my ability to:
+
+* Deploy and manage Active Directory in a real environment
+* Use PowerShell for administration (Server Core)
+* Structure and document IT infrastructure projects professionally
+* Understand networking, authentication, and policy enforcement
+* Troubleshoot domain join, DNS, and GPO issues
+
+---
+
+## 📝 Why This Project Matters
+
+This proves hands-on experience with:
+
+✔️ System Administration
+✔️ AD Architecture
+✔️ Enterprise Networking
+✔️ Identity & Access Management
+✔️ Real-world IT Support tasks
+
+---
