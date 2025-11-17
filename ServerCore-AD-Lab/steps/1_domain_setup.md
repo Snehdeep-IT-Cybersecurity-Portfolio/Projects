@@ -21,5 +21,5 @@ Ready for creating OUs, users, and groups.
 All configuration is done via PowerShell, no GUI required.
 
 
-![Domain Setup](../domain_setup.jpeg)
-![Domain Setup](../domain_setup2.jpeg)
+![Domain Setup](../screenshots/domain_setup.jpeg)
+![Domain Setup](../screenshots/domain_setup2.jpeg)
