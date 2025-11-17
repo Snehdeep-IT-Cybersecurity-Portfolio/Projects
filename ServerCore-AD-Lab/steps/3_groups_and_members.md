@@ -1,4 +1,4 @@
-# 4️⃣ Creating Security Groups & Adding Members
+# 3️⃣ Creating Security Groups & Adding Members
 
 **Goal:** Create security groups for each department and assign users to their respective groups.
 
