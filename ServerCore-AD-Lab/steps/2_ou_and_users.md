@@ -6,17 +6,19 @@ Steps Taken:
 # Create Organizational Units
 New-ADOrganizationalUnit -Name "IT"
 New-ADOrganizationalUnit -Name "HR"
-New-ADOrganizationalUnit -Name "Finance"
-New-ADOrganizationalUnit -Name "Managers"
-New-ADOrganizationalUnit -Name "Workstations"
+New-ADOrganizationalUnit -Name "Sales"
 
 # Create Users inside OUs
-New-ADUser -Name "Alice IT" -Enabled $true `
--AccountPassword (Read-Host -AsSecureString) `
+New-ADUser -Name "Alice IT" -SamAccountName "AliceIT`
+-AccountPassword (ConvertTo-SecureString "YourPassHere" -AsPlainText -Force) -Enabled $true `
 -Path "OU=IT,DC=mydomain,DC=local"
 
-New-ADUser -Name "Bob HR" -Enabled $true `
--AccountPassword (Read-Host -AsSecureString) `
+New-ADUser -Name "Bob HR" -SamAccountName "BobHR`
+-AccountPassword (ConvertTo-SecureString "YourPassHere" -AsPlainText -Force) -Enabled $true `
+-Path "OU=HR,DC=mydomain,DC=local"
+
+New-ADUser -Name "Carol Sales" -SamAccountName "CarolSales`
+-AccountPassword (ConvertTo-SecureString "YourPassHere" -AsPlainText -Force) -Enabled $true `
 -Path "OU=HR,DC=mydomain,DC=local"
 
 Notes:
