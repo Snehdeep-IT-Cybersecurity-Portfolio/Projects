@@ -1,4 +1,4 @@
-# 5️⃣ Group Policy Setup & Enforcement
+# 4️⃣ Group Policy Setup & Enforcement
 
 **Goal:** Create and link Group Policies (GPOs) for different departments and apply basic security settings using PowerShell.
 
