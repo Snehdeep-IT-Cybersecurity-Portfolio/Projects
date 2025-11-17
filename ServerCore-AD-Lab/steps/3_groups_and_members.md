@@ -30,6 +30,4 @@ Users were successfully linked to their respective OUs earlier.
 PowerShell confirms successful group creation with no errors.
 
 ![AD Group](../screenshots/Group.jpeg)
-![AD GroupMembers](../screenshots/Member1.jpeg)
-![AD GroupMembers](../screenshots/Member2.jpeg)
-![AD GroupMembers](../screenshots/Member3.jpeg)
+![AD GroupMembers](../screenshots/Members.jpeg)
