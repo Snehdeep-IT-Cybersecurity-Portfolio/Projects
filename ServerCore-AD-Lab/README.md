@@ -16,7 +16,7 @@ To practice and demonstrate core Active Directory administration skills in a Ser
 
 - 🖥️ Configured **Windows Server 2022 Core** as a Domain Controller  
 - 💻 Used **Windows 10 client** joined to the domain  
-- 🌐 Created domain: `MyDomain.local`  
+- 🌐 Created domain: `mydomain.local`  
 - 🏢 Created **Organizational Units (OUs)**: IT, HR, Sales  
 - 👤 Created **users** and assigned them to **groups**  
 - 🔒 Linked **GPOs** to OUs to enforce department policies  
