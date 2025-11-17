@@ -45,6 +45,3 @@ ServerCore-AD-Lab/
 - Screenshots and detailed commands are organized in the `steps/` folder.  
 - Focus is on **PowerShell-driven administration**, suitable for labs, learning, or portfolio showcase.
 ```
-
-
-Do you want me to do that next?
