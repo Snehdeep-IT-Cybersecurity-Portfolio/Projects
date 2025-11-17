@@ -28,7 +28,7 @@ Basic test users were created to validate login and policy deployment.
 Passwords set through PowerShell (secure string).
 
 
-![OU](../screenshots/ou.jpeg)
-![Users](../screenshots/users.jpeg)
+![OU](../screenshots/OU.jpeg)
+![Users](../screenshots/Users.jpeg)
 
 All actions completed in Server Core using PowerShell only.
