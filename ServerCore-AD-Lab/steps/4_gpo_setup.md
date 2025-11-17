@@ -47,4 +47,5 @@ Set-GPRegistryValue -Name "HR_Policy" `
 -Context User
 ```
 
-![GPO](../screenshots/gpo.jpeg)
+![GPO](../screenshots/gpo1.jpeg)
+![GPO](../screenshots/gpo2.jpeg)
